@@ -72,7 +72,8 @@ You can find data for 4 games in soft launch phase
    * C. 2%
    * D. 12%
 
-Conversion of game A and C are closer to the standard in Puzzle, conversion B is good and from a well performing Puzzle game. Conversion D is really strong, could be from a different genre.
+    Conversion of game A and C are closer to the standard in Puzzle, conversion B is good and from a well performing Puzzle game. Conversion D is really strong, could be from a different genre.
+
 2. Game A is slightly better than C. D1 retention is better for C, but after that Game A improves in comparison. Game A has a better late retention (D30) that can also influence the higher ARPDAU, ARPPU and better daily conversion.
 3. Game B is clearly better than game C in monetisation and retention. However it has a problem of retention in D30, there is a drastical drop in comparison to the D7 retention specially when looking at game C. These problems in retention could be related to lack of new content for older players or a too tight economy for older players.
 4. Game D has a similar issue to game B in the sense of having really strong KPIs but a really poor D30 retention. Considering how high the conversion is, it is quite likely that the game becomes too difficult without purchases for players on D30 and probably earlier (at least after D7, but we don't know when the issue starts). THe recommendation here would be to balance the economy for players in the late game and see if that brings improvements in retention for the long term. As a second option lack of content could be revised.
